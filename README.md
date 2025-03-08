@@ -27,3 +27,8 @@ In this project we are creating a conversational AI chatbot that can understand 
 - Click **"Save"** to store your intent.  
 
 Your Dialogflow agent is now set up with an intent! 🎉  
+
+### 5. Dialogflow messenger
+- In Google Cloud, got to Integrations tab
+- Select Dialogflow messenger and Enable it.
+- Copy the agent code and add it to your html file.
