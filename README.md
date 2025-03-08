@@ -32,3 +32,7 @@ Your Dialogflow agent is now set up with an intent! 🎉
 - In Google Cloud, got to Integrations tab
 - Select Dialogflow messenger and Enable it.
 - Copy the agent code and add it to your html file.
+
+### 6. Run the server
+- run uvicorn main:app --reload
+- After running main.py, access by http://127.0.0.1:8000/static/index.html
